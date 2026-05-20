@@ -1,0 +1,3 @@
+std_msgs/Header header
+sam_msgs_package/LineSegment lines
+sensor_msgs/Image image

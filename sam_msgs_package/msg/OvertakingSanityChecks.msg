@@ -1,0 +1,7 @@
+bool continue_overtake
+float32 target_offset
+bool swing_in_path_clear
+bool us_side_gap_clear
+bool overtaking_prohibited_detected
+bool drive_by_path_obstructed
+bool overtaking_zone_end_reached

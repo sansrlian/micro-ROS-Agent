@@ -1,0 +1,1 @@
+sam_msgs_package/MapSegment[] segments  # segments of the map
